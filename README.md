@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roLund
+- 👋 Hi, I’m @roLund, I currently work as a Quant Analyst at AP4. AP4 is a Swedish pension fund.
 - 👀 I’m interested in ...
 - 🌱 I’m currently playing with Python
 - 📫 you can reach me on robin.v.lundgren@gmail.com
